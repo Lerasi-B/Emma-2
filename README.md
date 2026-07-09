@@ -11,4 +11,4 @@ Matriculation Number: U2020/3020057
 Matriculation Number: U2020/3020070
 
 
-<br><em>This Website was deployed using Github pages</em>
+<br><em>This Website was deployed using Github page</em>
